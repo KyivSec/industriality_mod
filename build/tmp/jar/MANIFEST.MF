@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: industriality
+Specification-Vendor: Andrii Soldatov
+Specification-Version: 1
+Implementation-Title: industriality
+Implementation-Version: 0.1
+Implementation-Vendor: Andrii Soldatov
+Implementation-Timestamp: 2024-09-28T18:41:58+0300
+MixinConfigs: industriality.mixins.json
+

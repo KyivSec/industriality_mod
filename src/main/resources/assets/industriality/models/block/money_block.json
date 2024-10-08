@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "north": "industriality:block/moneyblockfront",
+    "south": "industriality:block/moneyblockfront",
+    "east": "industriality:block/moneyblocksides",
+    "west": "industriality:block/moneyblocksides",
+    "up": "industriality:block/moneyblocktop",
+    "down": "industriality:block/moneyblocktop"
+  }
+}
